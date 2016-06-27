@@ -1,8 +1,6 @@
 language: node_js
 node_js:
         - "6"
-os:
-  - linux
-  - osx
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+script:
+  - npm lint
+  - npm test
