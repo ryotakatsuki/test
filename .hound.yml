@@ -1,0 +1,8 @@
+javascript:
+  enabled: true
+  ignore_file: .javascript_ignore
+
+eslint:
+  enabled: true
+  
+fail_on_violations: true
