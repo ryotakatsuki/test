@@ -4,5 +4,11 @@ node_js:
 os:
   - linux
   - osx
+  
+matrix:
+  fast_finish: true
+  allow_failures:
+    - os: osx
+
 after_success:
   - bash <(curl -s https://codecov.io/bash)
