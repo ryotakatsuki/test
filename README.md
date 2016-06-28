@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ryotakatsuki/test.svg?branch=public)](https://travis-ci.org/ryotakatsuki/test)
+[![Build Status](https://travis-ci.org/ryotakatsuki/test.svg)](https://travis-ci.org/ryotakatsuki/test)
 12
 4
 5
